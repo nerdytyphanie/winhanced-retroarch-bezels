@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-02-artwork-v4",
+  "version": "2026-10-02-crt-1tap-v1",
   "status": "awaiting visual validation",
   "packages": {
     "3do": {
@@ -6797,9 +6797,44 @@
     },
     "shaders": {
       "path": "shaders.zip",
-      "size": 386008,
-      "sha256": "af8adc4a8aba937fea09c60d798e6010ba971194075183723a426c77fbb0472b",
+      "size": 397731,
+      "sha256": "4c7254740515831d10589af555da070ea9bf8ffcaabcef4492dee3eaf1ef6c1e",
       "files": [
+        {
+          "path": "RetroArchAssets/ATTRIBUTION.md",
+          "size": 5569,
+          "sha256": "450843c8698bf4278aa1ae5193758780e956e3f3d22bd1417731c229ac6bb25c"
+        },
+        {
+          "path": "RetroArchAssets/CC-BY-NC-SA-4.0.txt",
+          "size": 19018,
+          "sha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11"
+        },
+        {
+          "path": "RetroArchAssets/CC0-1.0.txt",
+          "size": 7048,
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+        },
+        {
+          "path": "RetroArchAssets/GPL-2.0.txt",
+          "size": 17984,
+          "sha256": "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6"
+        },
+        {
+          "path": "RetroArchAssets/GPL-3.0.txt",
+          "size": 35149,
+          "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+        },
+        {
+          "path": "RetroArchAssets/MPL-2.0.txt",
+          "size": 16726,
+          "sha256": "fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85"
+        },
+        {
+          "path": "RetroArchAssets/RETROBAT-LICENSE.txt",
+          "size": 1207,
+          "sha256": "03b7807d8c354092bacdcf54f40a80adb969eb9c72c9e9825309367a84ae6f08"
+        },
         {
           "path": "RetroArchAssets/RetroArchBezels/agb001.slang",
           "size": 1502,
@@ -6821,19 +6856,49 @@
           "sha256": "1509dbddab4779cf12a4279323524fe81ee7448cb9041b9a8d2dd98e4b8630b0"
         },
         {
+          "path": "RetroArchAssets/RetroArchBezels/bloom_blend_fast.slang",
+          "size": 2611,
+          "sha256": "81d86005bb80e1dd6990e99f2172db9752e1bc575461b6911a2d75f1edfc08bf"
+        },
+        {
           "path": "RetroArchAssets/RetroArchBezels/coverage.inc",
           "size": 1705,
           "sha256": "400b1b3eb8c5786df69a561ec2d5fa43c81bc0e0c66fdd9f2efe3a4f4ee5807a"
         },
         {
-          "path": "RetroArchAssets/RetroArchBezels/crt-hyllian-fast.slang",
-          "size": 5156,
-          "sha256": "4b8dc17d092440d6e1edd31aaea41165bc491e82e112ddb974f1db2d450be11e"
+          "path": "RetroArchAssets/RetroArchBezels/crt-1tap-bloom_fast.slangp",
+          "size": 5651,
+          "sha256": "e5756a4ef80775a7999bfe34d2c3ffe5df80c2410981503a9f1f13c9dc11037d"
         },
         {
-          "path": "RetroArchAssets/RetroArchBezels/crt-hyllian-fast.slangp",
-          "size": 97,
-          "sha256": "10b9b86f869a7db2ccad7559864ed7e2e39379909e10117e2b6c3c513e80cb07"
+          "path": "RetroArchAssets/RetroArchBezels/crt-1tap.slang",
+          "size": 3548,
+          "sha256": "b77ec93a9edc00a485bb8d99fdf7222c9e6bd10fde50fc321a197a3616d08a99"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/crt1tap-parameters.inc",
+          "size": 264,
+          "sha256": "35a33ac699034430d1558f14caeea7931fed3ea6c8318a63ef3d52e1465bc3b8"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/delinearize.slang",
+          "size": 687,
+          "sha256": "605100c5709e580149fd965f6c2b9bc8427be63a3fd0d285539c45894fbf7c8a"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/downsample.slang",
+          "size": 901,
+          "sha256": "f9a41e1ea1f9c71cdf6bae649ce917ff2b61e7fefc7210181ccb6c3897feb63b"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/downsample_bloom.slang",
+          "size": 1116,
+          "sha256": "238ba4e4b8bc8c963427b8789375e13acd94ab8b1c87fbd69c5143999183a494"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/dual_filter.inc",
+          "size": 2996,
+          "sha256": "3cac56f6e5f2fbf519abdd8a36f62e3a7c2f81bacbf9ecd789c270c0d1ac2a0b"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/gameboy.slangp",
@@ -6901,6 +6966,21 @@
           "sha256": "81a06aa82730ca92b736ffea1ce0e04ffcfa08ca2ce4b746d669d46b11e8ce41"
         },
         {
+          "path": "RetroArchAssets/RetroArchBezels/linearize.slang",
+          "size": 681,
+          "sha256": "3c926b72f57d4f4962cbc39561873d8665a860dc15414726c5ea8710651a33f8"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/moving_avg.slang",
+          "size": 1032,
+          "sha256": "0ea99b637d64a2040c82a2dd3f5060ea5143ba1e39c746f7bb5f2ed6ce9b59b0"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/naive_resample.slang",
+          "size": 742,
+          "sha256": "ff8f76f34a843af38b2b4d2a9c3babe443a337edb39f812e26d1af79a933399a"
+        },
+        {
           "path": "RetroArchAssets/RetroArchBezels/palette.png",
           "size": 98,
           "sha256": "9865e419eafb484e1b3cfdf99241d71a183e5f23871295fa1822337a22aca9fc"
@@ -6909,6 +6989,16 @@
           "path": "RetroArchAssets/RetroArchBezels/parameters.inc",
           "size": 532,
           "sha256": "66e6ebb394022a9f343d039cf3ba4675f9854d000cc9bc627eb7643bdb61840f"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/parameters_bloom.inc",
+          "size": 545,
+          "sha256": "34adca261d1125f36a9b0109c5ed4b5c735f2c10d66bba668a6375a0ed6b729c"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/rcas.slang",
+          "size": 5479,
+          "sha256": "f6bd6ac826e1f4947dba10c1fb4565a7cc75dce73669787bb5940f3d2c8d9508"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/response-time.slang",
@@ -6926,40 +7016,19 @@
           "sha256": "2b1346ef8320ff60339e8f6f3abcdc31980ce22aa59544dc170149b2cfff4732"
         },
         {
-          "path": "RetroArchAssets/RETROBAT-LICENSE.txt",
-          "size": 1207,
-          "sha256": "03b7807d8c354092bacdcf54f40a80adb969eb9c72c9e9825309367a84ae6f08"
+          "path": "RetroArchAssets/RetroArchBezels/tonemapping.inc",
+          "size": 1555,
+          "sha256": "636022baa22d92a1a332e23ae20c87f86ca96810f928030b17ea0799818d7f8c"
         },
         {
-          "path": "RetroArchAssets/GPL-2.0.txt",
-          "size": 17984,
-          "sha256": "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6"
-        },
-        {
-          "path": "RetroArchAssets/GPL-3.0.txt",
-          "size": 35149,
-          "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
-        },
-        {
-          "path": "RetroArchAssets/MPL-2.0.txt",
-          "size": 16726,
-          "sha256": "fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85"
-        },
-        {
-          "path": "RetroArchAssets/CC0-1.0.txt",
-          "size": 7048,
-          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
-        },
-        {
-          "path": "RetroArchAssets/CC-BY-NC-SA-4.0.txt",
-          "size": 19018,
-          "sha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11"
-        },
-        {
-          "path": "RetroArchAssets/ATTRIBUTION.md",
-          "size": 3925,
-          "sha256": "c586126750b26d12f50f7e78de4195d34974fd28e98045e264c66ed609af9a81"
+          "path": "RetroArchAssets/RetroArchBezels/upsample.slang",
+          "size": 905,
+          "sha256": "abf28884aa2255d43c44b3fb6cb37a7f02fae5a48cc3e9bfd7dc430aca75b869"
         }
+      ],
+      "remove": [
+        "RetroArchAssets/RetroArchBezels/crt-hyllian-fast.slangp",
+        "RetroArchAssets/RetroArchBezels/crt-hyllian-fast.slang"
       ]
     }
   }

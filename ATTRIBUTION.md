@@ -31,8 +31,10 @@ https://www.retroarch.com/ and https://github.com/libretro/slang-shaders
 | `gba-color.slang` | hunterk; modifications by Pokefan531 | Public domain declaration. |
 | `lcd-grid-v2.slangp` / `lcd-grid-v2.slang` | cgwg LCD shader family; RetroArch/Libretro collection | The distributed source has no explicit license header; no replacement or blanket license is asserted by this repository. |
 | `lcd1x_nds.slangp` / `lcd1x_nds.slang` | jdgleaver; original LCD code by Gigaherz; color code by hunterk and Pokefan531 | GPL version 2 or later; original components credited as public domain in its header. |
-| `crt-hyllian-fast.slangp` / `crt-hyllian-fast.slang` | Hyllian (2011-2015), cgwg mask, DariusG and hunterk ports | MIT permission notice retained in shader source. |
+| `crt-1tap-bloom_fast.slangp`, `crt-1tap.slang`, Dual Filter Blur & Bloom sources/includes, RCAS and supporting passes | fishku (2023); RCAS reimplementation by fishku, based on Advanced Micro Devices (2021); RetroArch/Libretro collection | CRT-1tap and Dual Filter Blur & Bloom declare CC0/public domain. RCAS retains the AMD MIT notice. Supporting stock linearization/resampling passes retain their upstream notices; no blanket license is asserted. |
 
 Full shader source is included in `shaders.zip`, not compiled-only binaries. Source license and copyright comments are preserved. Preset paths were flattened for portable packaging; the GBA preset's built-in border pass and BORDER texture were removed. Its three effect shaders are unchanged. LCD grid v2 and NDS shader code are unchanged.
 
-GPL-2.0, GPL-3.0, MPL-2.0 and CC0 license texts are included. The MIT notice is preserved in `crt-hyllian-fast.slang`. There is no single license for this mixed collection; the artwork's CC terms do not relicense shaders, and shader licenses do not relicense artwork.
+GPL-2.0, GPL-3.0, MPL-2.0 and CC0 license texts are included. The AMD MIT notice is preserved in `rcas.slang`. There is no single license for this mixed collection; the artwork's CC terms do not relicense shaders, and shader licenses do not relicense artwork.
+
+The CRT-1tap bloom preset and its 14 dependencies were copied from the test Claw's RetroBat shader collection. All 20 preset passes and parameter values are retained. Relative paths were flattened for this package; its `parameters.inc` was renamed `crt1tap-parameters.inc` to avoid colliding with the existing handheld shader include. Shader algorithms and license comments are unchanged.
