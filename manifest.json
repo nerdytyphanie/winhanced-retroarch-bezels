@@ -1,11 +1,11 @@
 {
-  "version": "2026-10-02",
+  "version": "2026-10-02-artwork-v2",
   "status": "awaiting visual validation",
   "packages": {
     "3do": {
       "path": "3do.zip",
-      "size": 696485,
-      "sha256": "9f636771cd8145a42bee284b59048e4899d20dc6f434fb86891bded62dc50fe9",
+      "size": 691826,
+      "sha256": "e4b96996416b88b8170ce08f2fc0c618254b1d718050df687d43ea8405373672",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -44,8 +44,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/3do-16x10.png",
-          "size": 222238,
-          "sha256": "0f5af7d1b5da5db440128b6053102d3bbe95737e4fb96c0bd717915cec8235bb"
+          "size": 220287,
+          "sha256": "b3874dd449d18ee9bea242052fc04a46b8dab35460b71805e9db0c6beda0ca2a"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/3do-16x9-viewport.json",
@@ -272,8 +272,8 @@
     },
     "adam": {
       "path": "adam.zip",
-      "size": 174009,
-      "sha256": "bdbb16b455628a98d878530f33f3a7dcedb9c8c140c869afc7f94293a838c390",
+      "size": 173606,
+      "sha256": "a8b8923d53b2e69c57c7474f0a137bc66cbe7efca25f4a8d688e24c56cc22519",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -312,8 +312,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/adam-16x10.png",
-          "size": 69472,
-          "sha256": "2b609a0cee3e03375b98e7feaab14192a9bd153e09ca7a290e71f7adddda6abc"
+          "size": 69257,
+          "sha256": "5718dcb08526d9b6b2961488c2e052dbd4a12143f7f6b6f7b6eb734b9c2a90ef"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/adam-16x9-viewport.json",
@@ -339,8 +339,8 @@
     },
     "amiga": {
       "path": "amiga.zip",
-      "size": 289124,
-      "sha256": "0b53ae7638284a296557f44f5fc2971efa199f4b7aa9f84af83ae0c3293a766e",
+      "size": 288649,
+      "sha256": "a6df6b30f004f441954d68495ae966940bc7de68dd6640119e713873eed6fa73",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -379,8 +379,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/amiga-16x10.png",
-          "size": 115464,
-          "sha256": "a9ee6d5e46c719eb956904b1290fb45f1998e5d814bd41f7547902ca57da493c"
+          "size": 115253,
+          "sha256": "fac7df1b3577de1116329d5e7fe95741cb8de4e724d21b899e79fd8ee6e7a09c"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/amiga-16x9-viewport.json",
@@ -463,8 +463,8 @@
     },
     "amiga500": {
       "path": "amiga500.zip",
-      "size": 289178,
-      "sha256": "47398595cbeb82e9e89cec015a83a9eda78e3aafe3f4a4da6d8a274090333f51",
+      "size": 288703,
+      "sha256": "ca1a3ea0fbece8905874d282abe9009e8f78e36c87983269b63bb3477e9bab67",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -503,8 +503,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/amiga500-16x10.png",
-          "size": 115464,
-          "sha256": "a9ee6d5e46c719eb956904b1290fb45f1998e5d814bd41f7547902ca57da493c"
+          "size": 115253,
+          "sha256": "fac7df1b3577de1116329d5e7fe95741cb8de4e724d21b899e79fd8ee6e7a09c"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/amiga500-16x9-viewport.json",
@@ -701,8 +701,8 @@
     },
     "amstradcpc": {
       "path": "amstradcpc.zip",
-      "size": 557891,
-      "sha256": "fa01483016c3f94bdee1e357136b9c79b918516a96ff826ec3745520327b4930",
+      "size": 552911,
+      "sha256": "dda8f34f7519353e589cfc75ae92cec2fbbb142074737fb466a897dbe75cf7a7",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -741,8 +741,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/amstradcpc-16x10.png",
-          "size": 194742,
-          "sha256": "5de527c4a04fa93ffad1df28f228e21da84a63c06f06d9f37b7647caf0af9ec9"
+          "size": 192068,
+          "sha256": "d907c05feb75d8b80ee77a29a18cf86b58f79b43b13515be658cfad7ee98acab"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/amstradcpc-16x9-viewport.json",
@@ -768,8 +768,8 @@
     },
     "apple2": {
       "path": "apple2.zip",
-      "size": 352831,
-      "sha256": "a6b33e79b9d4987dbbbbd1c3a49c531a6a9f3c1544f01584c554b972cf0bf2a1",
+      "size": 353220,
+      "sha256": "167cd5c490959e362575aac91a757a3925cef0bfb00cbfe6dad1778b7526069f",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -808,8 +808,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/apple2-16x10.png",
-          "size": 120785,
-          "sha256": "03e92c5029cd28e0242a5bba6c7dafd3c60b7bbfb60127032406bd3ee1d8e521"
+          "size": 122439,
+          "sha256": "f67d3474aab011ecc5f4f0dd2c6ad63d14efb0c71d06e14437cf244db74e775f"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/apple2-16x9-viewport.json",
@@ -835,8 +835,8 @@
     },
     "apple2gs": {
       "path": "apple2gs.zip",
-      "size": 1149423,
-      "sha256": "ee81bd7b937089756e3c4aa80323214c1f3c5b3adb819227d88d23f01390a1f1",
+      "size": 1147892,
+      "sha256": "bf208bdaba9609b418be8fe30efa640a4a1c6e7769beb4f73eb0dbd206791062",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -875,8 +875,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/apple2gs-16x10.png",
-          "size": 354067,
-          "sha256": "5bc3c8c2ac1aa9f00d53b8c95d17b0cff49dff42af3ce80a21352636ee8f744c"
+          "size": 353428,
+          "sha256": "1977446a95d7b16694b6255db75b5815ffdb4c1bb400725bfe8dd19aa06fc2e0"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/apple2gs-16x9-viewport.json",
@@ -902,8 +902,8 @@
     },
     "atari2600": {
       "path": "atari2600.zip",
-      "size": 537022,
-      "sha256": "19fc8d9bc44d8d4e5c6ff794d850893cae20957c203cd0e7877f23fd62711453",
+      "size": 534237,
+      "sha256": "f78aaef5d6cb668386b79afbc5b263dae4aa13aab2b5defbe6a59bb1abb01de4",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -942,8 +942,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/atari2600-16x10.png",
-          "size": 172501,
-          "sha256": "37774ebb31b7a5008febb7764f3d5319a63333e5b86945455c5a0442194bda3e"
+          "size": 171229,
+          "sha256": "45e97327f98a64c7736efd9111aa0fdbc8d26405db8dee6a1000b64e9f82dc12"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/atari2600-16x9-viewport.json",
@@ -969,8 +969,8 @@
     },
     "atari5200": {
       "path": "atari5200.zip",
-      "size": 434893,
-      "sha256": "b94af50ad0137d050f4a3724690cf20d789957d4d99740754a51edd67f5fa107",
+      "size": 434566,
+      "sha256": "aac2de14eeea0daccdc17e2878c53d6b09602c6f02ce251bbd4f574df8f60702",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -1009,8 +1009,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/atari5200-16x10.png",
-          "size": 147160,
-          "sha256": "9769f2077853c2412eb7a3f4b582d40feb26d202137e9bf208f49d4b41b7d65a"
+          "size": 147011,
+          "sha256": "7f6047993b8f71338761586409c5c8fd23f6ffdf2df40165e3539e8bc87b3982"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/atari5200-16x9-viewport.json",
@@ -1036,8 +1036,8 @@
     },
     "atari7800": {
       "path": "atari7800.zip",
-      "size": 427550,
-      "sha256": "e41cdd93325b70236a9370f280d705aeb1405ea2449984372c2aebf58b0b9388",
+      "size": 426729,
+      "sha256": "5af08ad7ee04dadf67ffa79802c745878700da9541770b9f2324033c337427b2",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -1076,8 +1076,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/atari7800-16x10.png",
-          "size": 145356,
-          "sha256": "794e4745314e4858d0d726be4b92802e2c3501a82a1d0a870ab23ded5efad99d"
+          "size": 145005,
+          "sha256": "e3b3796a408bcc92e960503246ff28ba75cbb167847be084e1f08fb128a5c637"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/atari7800-16x9-viewport.json",
@@ -1103,8 +1103,8 @@
     },
     "atari800": {
       "path": "atari800.zip",
-      "size": 1097671,
-      "sha256": "5addbc8e7340f44c5b2f910248c06feb3f8e1d308a1cc343358fa52114ff6247",
+      "size": 1091547,
+      "sha256": "39973a8afd042bd42303f1fa1fa93f19715f4eab8776b29d82627cce913bc8fa",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -1143,8 +1143,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/atari800-16x10.png",
-          "size": 397735,
-          "sha256": "d46cb564095f367fcb148d85ed46b5d972161d8a2593331470b93b9f8552829b"
+          "size": 394515,
+          "sha256": "500a218fcd071c78d494205fb2e2a0faa22c5d674d607ecfd5d8009d5f7b0d8e"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/atari800-16x9-viewport.json",
@@ -1170,8 +1170,8 @@
     },
     "atarist": {
       "path": "atarist.zip",
-      "size": 202198,
-      "sha256": "d312981572d73c2931aa62b669b1352a65e6d8578140d8259114f74acf2f7d01",
+      "size": 202203,
+      "sha256": "3855fb7bfeaf4a16eff7577e99c240a5ea834aa23ff971746325d9e782549210",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -1210,8 +1210,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/atarist-16x10.png",
-          "size": 83567,
-          "sha256": "fae34ab65d8b378f33991c5d6b669455a4a8d758f4a333e82bcc3d821a081c3b"
+          "size": 83607,
+          "sha256": "1cb163ef3c22fb8b813e400e71afbb3fb949ba366ef00088c8f76ad47429feb1"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/atarist-16x9-viewport.json",
@@ -1346,8 +1346,8 @@
     },
     "c64": {
       "path": "c64.zip",
-      "size": 381479,
-      "sha256": "5def0c36db9e5116d0b0e5f9020022d47822fff16c792c04b60b459dc268b54a",
+      "size": 376681,
+      "sha256": "7a41b298e002fae2266965acffc93f535dd02b6575aafcb331a868703ba1a2a6",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -1386,8 +1386,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/c64-16x10.png",
-          "size": 142719,
-          "sha256": "f3c5511bd682f0238468504ecf5dc57d9ad6caa1f929d54267b5a2e5743f9248"
+          "size": 139277,
+          "sha256": "142e242404004b76087b9a733de89d7544c9a2dca9e4eb8a896a84508bd14ee4"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/c64-16x9-viewport.json",
@@ -1413,8 +1413,8 @@
     },
     "channelf": {
       "path": "channelf.zip",
-      "size": 158892,
-      "sha256": "c0e08797d863e296fd8a773421abe4422ae54fccf302dd4cc1d0f84e05761eb4",
+      "size": 157622,
+      "sha256": "6164c2262788716070205f7e81566253234f63f89862c688168b3e917a32339a",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -1453,8 +1453,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/channelf-16x10.png",
-          "size": 64678,
-          "sha256": "aec8938c40501dfe33a0dc1fa4eac16048025daad359684ecbe751c606da51d9"
+          "size": 63983,
+          "sha256": "56c65daff760dc74553060a2274b0087144a0ce34c369ba2350af92a45986b68"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/channelf-16x9-viewport.json",
@@ -1480,8 +1480,8 @@
     },
     "colecovision": {
       "path": "colecovision.zip",
-      "size": 478568,
-      "sha256": "2ca38c99976d25e23305dbb92dfff8c7d2b53627d3afac5917d4bd1743d7bccb",
+      "size": 474590,
+      "sha256": "c65de353cd66e50c39f8008fd6a6ec6f852cf92266c60e4e6b4df774476d0dc4",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -1520,8 +1520,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/colecovision-16x10.png",
-          "size": 180570,
-          "sha256": "967f2e161616dc26a04aee06634e34028f232afd74beab8f40761407d282c231"
+          "size": 177743,
+          "sha256": "89321f190e996125e765aa8b905e9d8326b38457100ea2403a9624a1379f6e89"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/colecovision-16x9-viewport.json",
@@ -1718,8 +1718,8 @@
     },
     "dos": {
       "path": "dos.zip",
-      "size": 183423,
-      "sha256": "c15e1a7103606cfdd19a6fb636535950d6eb5cdeef91d8db48816d4590a11647",
+      "size": 183392,
+      "sha256": "1f8a9d2b26d0a555bc4f8f010dd710de763573d69aaa6ef3158ba8fdb9dc1039",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -1759,7 +1759,7 @@
         {
           "path": "RetroArchAssets/RetroArchBezels/dos-16x10.png",
           "size": 75138,
-          "sha256": "135384e6f09f45c33b8d666da8edbab16c386803d9da2c8bbc89f906d880c289"
+          "sha256": "4e376680c35ac1177c6f0f2bdc19b184bb9a8c48e5ce2308e9af4c0db77d22cb"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/dos-16x9-viewport.json",
@@ -1785,8 +1785,8 @@
     },
     "dreamcast": {
       "path": "dreamcast.zip",
-      "size": 255953,
-      "sha256": "cf875cbfd75a4edeeb707438c9e5428da20116339bde7338dea2edfd9c7a45f2",
+      "size": 255666,
+      "sha256": "3db0d5a81fc2dfd5adf08b8faec48e8f5681379bdf4851c624d60b412c5e19f3",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -1825,8 +1825,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/dreamcast-16x10.png",
-          "size": 100530,
-          "sha256": "1c4b18a5b4496c66be12f4fbbfc08b27b3b74f7bcec2e3d866c0c70363c49c9a"
+          "size": 100428,
+          "sha256": "172a8d4a56051c458fef31d22272eea44a454632dc65a30f89e366bc283b6e95"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/dreamcast-16x9-viewport.json",
@@ -1852,8 +1852,8 @@
     },
     "easyrpg": {
       "path": "easyrpg.zip",
-      "size": 346044,
-      "sha256": "e26ee8f90843a5c5e0ba80010bdd7b66c254c8418d14648a6382c86b16b732e9",
+      "size": 345892,
+      "sha256": "7ab078558632e1cb98b15854b2aa8c56cca84b7f603d6127f3c5360d3a831fbe",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -1892,8 +1892,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/easyrpg-16x10.png",
-          "size": 140190,
-          "sha256": "36a1f25442cee6fe638d2abb1b30bc00de6b56e5f0f4e0c8e20cf545c85b1b07"
+          "size": 140139,
+          "sha256": "b06061a8961f2bcf873023878ee8aebbfc072b129b763ca2c32ab04e1d9e6fda"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/easyrpg-16x9-viewport.json",
@@ -1919,8 +1919,8 @@
     },
     "fbneo": {
       "path": "fbneo.zip",
-      "size": 1000218,
-      "sha256": "fdf595af2cb6530277af3a75bbaf9a6f5c0cfa4128320b4762c8a04fce1198c3",
+      "size": 996085,
+      "sha256": "5b58565a65c3fe0306341744a787efcb29bf04811416a082627b58629df12cd2",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -1959,8 +1959,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/fbneo-16x10.png",
-          "size": 376595,
-          "sha256": "763e3d22a9f4e6533fec94a2891db7252d0244faafcb7d77102bb374fa7df264"
+          "size": 374314,
+          "sha256": "089b4a8a6270add4cc6e185457ed97f07a83459c2071bdd407f5652705cf1bd5"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/fbneo-16x9-viewport.json",
@@ -2043,8 +2043,8 @@
     },
     "fm7": {
       "path": "fm7.zip",
-      "size": 198889,
-      "sha256": "c91a0a455114d8079fa558911c7ce13c054cf86e1395554ea7213efd9c8aa705",
+      "size": 198626,
+      "sha256": "8ca6b6bfcdd2ad8bc5431552de877cdfcc17592432697bdb6b82125eaab22ab1",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -2083,8 +2083,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/fm7-16x10.png",
-          "size": 81257,
-          "sha256": "d0f4fa2c363d5e3fb81237d29c7e83250d2236b5631fe80d26ebca3fe28718f3"
+          "size": 81753,
+          "sha256": "58ff4bf97462643fc2deec92b5b7529bdaf93c4adfa71136a08c12f4270ebf35"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/fm7-16x9-viewport.json",
@@ -2110,8 +2110,8 @@
     },
     "fmtowns": {
       "path": "fmtowns.zip",
-      "size": 237273,
-      "sha256": "e650c43d1fdd211ede144d5da249c4d68db6aca635e650f168a4ffd05edab45c",
+      "size": 236979,
+      "sha256": "037690e5ece29e45de83b0167af61175809ef1b8485b295054ad2feda43e965e",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -2150,8 +2150,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/fmtowns-16x10.png",
-          "size": 95129,
-          "sha256": "6783da6a7a1334426bd7ec3e29380f5fe7a1a85b17c90f0bb48f9cc8b0a1e41b"
+          "size": 94961,
+          "sha256": "acb9d0a79f4347ee058dec1489f6f504b7f2c4764490030ea0c9e09408b14855"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/fmtowns-16x9-viewport.json",
@@ -2177,8 +2177,8 @@
     },
     "gamecube": {
       "path": "gamecube.zip",
-      "size": 887324,
-      "sha256": "76ad350fc990968ce31afad567a22b3c57e9b4608583aa4e9ac07d74b04b6d4d",
+      "size": 881846,
+      "sha256": "d6757d4c69117ac51d87d8dcdd4ebe7e64b2791bbb32a6c6fe09599d12a5f5a8",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -2217,8 +2217,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/gamecube-16x10.png",
-          "size": 290672,
-          "sha256": "e56150c19b9ae6157c3757c78216c8e11b930963e127d7b108feb62dea7f1cee"
+          "size": 288042,
+          "sha256": "9dde5e9d04ab6bfc7776ea0d21c053232ef5eba7ce66684dc444177ce73a9c32"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/gamecube-16x9-viewport.json",
@@ -2649,8 +2649,8 @@
     },
     "gx4000": {
       "path": "gx4000.zip",
-      "size": 182664,
-      "sha256": "fc01ed66f42b7c7ff4e415d0c0cf4005bcb22ce652ff9f6f980446a73e059ed5",
+      "size": 181400,
+      "sha256": "6f30fd2da0adf74c091b195e7e42eee6a5b41cb64d42eb9dbae4829c1c023601",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -2689,8 +2689,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/gx4000-16x10.png",
-          "size": 74755,
-          "sha256": "37e97629b46ee455abdf23cea634e2a2c0f35fd0f9db0378c08ca3070e3fc70d"
+          "size": 74072,
+          "sha256": "b2dffbc35185cd3caf33edb00d69097e27844b29183e209bc0dadd4332a7c494"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/gx4000-16x9-viewport.json",
@@ -2716,8 +2716,8 @@
     },
     "intellivision": {
       "path": "intellivision.zip",
-      "size": 884056,
-      "sha256": "45f265d7080bfdf0192f0c46a040b058ce22badad6a31f7094be26f3217201b1",
+      "size": 879821,
+      "sha256": "105c7269d1040d3ff20347fb89b919013d6a59938d87a85c4192b39350dde1d1",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -2756,8 +2756,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/intellivision-16x10.png",
-          "size": 309847,
-          "sha256": "47909397c0ab88bf890846798e496315e284262ea55abb53e344b878e9ea9ac7"
+          "size": 307941,
+          "sha256": "f82efb333f927b8484304e910478bf7e0005272bc29bba074157ae0f6818938e"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/intellivision-16x9-viewport.json",
@@ -2783,8 +2783,8 @@
     },
     "jaguar": {
       "path": "jaguar.zip",
-      "size": 480466,
-      "sha256": "20a483fec3c17960d5bea0776318a60ed98a9aecc5c50cebfbc13439d93f4789",
+      "size": 480194,
+      "sha256": "269b7a95610fdc02dec68471c4c9464d67b0c6105e46b74585a4f89fb8a0f931",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -2823,8 +2823,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/jaguar-16x10.png",
-          "size": 161182,
-          "sha256": "308c160866b3355dbce9716a7556aa89c86d8c89a0e3966e325165b24bab4a1f"
+          "size": 161015,
+          "sha256": "e5b865f4259ac06ec310c43558795cab8c25bb4ceee82ed855148b24615239c8"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/jaguar-16x9-viewport.json",
@@ -2974,8 +2974,8 @@
     },
     "mame": {
       "path": "mame.zip",
-      "size": 1028933,
-      "sha256": "def762d286653ff9666a446715cfef4662357d06409eb8ebc38410bdacb76875",
+      "size": 1024548,
+      "sha256": "905a161e5bb165904b65e894f0cc28f015473fc96a28b54f0a784272f0abcb66",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -3014,8 +3014,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/mame-16x10.png",
-          "size": 383777,
-          "sha256": "79646ad496dfc30bef95f7f6d02aa1f17ff7d3209bce2b6ec024f1f0495cd74d"
+          "size": 380882,
+          "sha256": "97ee791f5e5941b34e3f7fbb5e9faff41e5ebc798fc2824e186aff06ffc81da3"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/mame-16x9-viewport.json",
@@ -3041,8 +3041,8 @@
     },
     "mastersystem": {
       "path": "mastersystem.zip",
-      "size": 171594,
-      "sha256": "4ba62900c0b33f4a78a6d2c4342f48d94385ec7b86c1a1968492850fc84da848",
+      "size": 170309,
+      "sha256": "90d710429a5242958cdd9daf19bea79d23733ec08d3efb471a971ed5a9464d0d",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -3081,8 +3081,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/mastersystem-16x10.png",
-          "size": 74844,
-          "sha256": "7455512aa316a86a988586f13f97c3f886b56308f674965d97c9258f5579649f"
+          "size": 73863,
+          "sha256": "d5aead8f904f042ac12acead737dbce60efd68ecb569d4148aa89d2434ae7d0e"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/mastersystem-16x9-viewport.json",
@@ -3108,8 +3108,8 @@
     },
     "megacd": {
       "path": "megacd.zip",
-      "size": 553718,
-      "sha256": "189191ceff7e6b5353a4c6e555534c71f36961687023bc3ce7eec1ef4edcd2d6",
+      "size": 550706,
+      "sha256": "aa236610b0b64cb501d734cd75277ea641e388b345fade94014ef23cf97f1a36",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -3148,8 +3148,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/megacd-16x10.png",
-          "size": 185884,
-          "sha256": "fb5e84c83b38278c2d5d633bb903512e1a135f769a0dc16055d945b66c2b7547"
+          "size": 183925,
+          "sha256": "113815c43c73cd822d7031ea92e677a2032288f65c38a028ecf7d72c3f6974a4"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/megacd-16x9-viewport.json",
@@ -3175,8 +3175,8 @@
     },
     "megadrive": {
       "path": "megadrive.zip",
-      "size": 505946,
-      "sha256": "357c1e72274ed4068b7e4bbe6365ab44fcb43ed9c899d9400ec41522c28cfe8b",
+      "size": 501897,
+      "sha256": "5f6fb0032b36ab4eec7ae17201110795a8277bd11c5cc63ee9940fd4728748d3",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -3215,8 +3215,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/megadrive-16x10.png",
-          "size": 177775,
-          "sha256": "0b02149054bd6f52bb291b32601ec37d03423c6e4bc60266854e9a3b9d422c1a"
+          "size": 174988,
+          "sha256": "0afd02bcc53c20fc47f375a18f613108c64fc89fcdfc5d3dc6b97698bdbe3269"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/megadrive-16x9-viewport.json",
@@ -3346,8 +3346,8 @@
     },
     "msx": {
       "path": "msx.zip",
-      "size": 514515,
-      "sha256": "c55e5092e247e2d110ae5fe9dc8064097d3b75b257dc152a9f66257a9260d8f2",
+      "size": 514350,
+      "sha256": "e2144c7f89daedf8d29556f105393c06c3b3289c063da59461101c2a264f3bba",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -3386,8 +3386,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/msx-16x10.png",
-          "size": 178761,
-          "sha256": "9b018139f902406cb60a8cb1c441ba20fd5342622e77c548199328a0c7f9ff15"
+          "size": 178731,
+          "sha256": "2f5965dbc93184b2cd3dc32b181f3d1839233494b4fc96d58a3d646a2cbf583f"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/msx-16x9-viewport.json",
@@ -3413,8 +3413,8 @@
     },
     "msx1": {
       "path": "msx1.zip",
-      "size": 514533,
-      "sha256": "4b8998c92bb7eb03b9115cb4b6b954c9d3889e80cda4ca8d7c9cd8bd4d3321fa",
+      "size": 514368,
+      "sha256": "eddfffb6df8af2d88ddb46d1dace90ed2361c33cb43a5c21581f000fa270fb36",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -3453,8 +3453,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/msx1-16x10.png",
-          "size": 178761,
-          "sha256": "9b018139f902406cb60a8cb1c441ba20fd5342622e77c548199328a0c7f9ff15"
+          "size": 178731,
+          "sha256": "2f5965dbc93184b2cd3dc32b181f3d1839233494b4fc96d58a3d646a2cbf583f"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/msx1-16x9-viewport.json",
@@ -3480,8 +3480,8 @@
     },
     "msx2": {
       "path": "msx2.zip",
-      "size": 291136,
-      "sha256": "75b1828bb45c706c47358d17212cb880e117aff0613a62759f9dc27fadce8a3a",
+      "size": 289075,
+      "sha256": "40eccf0e8e64f271328680ee6a62ed9f8cd1811ce624074d615bda14e308cd1b",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -3520,8 +3520,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/msx2-16x10.png",
-          "size": 113193,
-          "sha256": "e2cbc40e476056e0007ada17fb0786484351a7c1e436459a301f5649a4ff4d36"
+          "size": 112099,
+          "sha256": "9b9e08ed3638abed499113e5fbd591b4b3495ed6b16f4e4943cdef6f42cc860b"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/msx2-16x9-viewport.json",
@@ -3661,8 +3661,8 @@
     },
     "n64": {
       "path": "n64.zip",
-      "size": 168371,
-      "sha256": "0f5a61fff0f554acb71724fda4bd94a0bc93551cab449cfa728e2ff127d8a15d",
+      "size": 167947,
+      "sha256": "27c9f7680c775748259eb2b27619b92341bf7f001228d7a6f4df2e12af90ffff",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -3701,8 +3701,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/n64-16x10.png",
-          "size": 67887,
-          "sha256": "ff69234eadf55b223eb3cd1b6f170dfd2f68a7319d8f437db0a972a21bdf0be0"
+          "size": 67715,
+          "sha256": "e3db0d75301339c576a4a6aa74631e060af582e92db64c1e2ea92b7b66d4e538"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/n64-16x9-viewport.json",
@@ -3728,8 +3728,8 @@
     },
     "naomi": {
       "path": "naomi.zip",
-      "size": 157826,
-      "sha256": "fff46a577db3f5cf2aed8182010a509503fca5eb3b3b2ce33b35e6bd18778c90",
+      "size": 157890,
+      "sha256": "e4a7ce3ebabcd789c2d810eafeb1d64da76d20f354f4f8d4e966f18fb43ca777",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -3768,8 +3768,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/naomi-16x10.png",
-          "size": 60283,
-          "sha256": "8e8c1dc02a287a42b854d5ca50f89c3e60d0cef0fa06b31d9c67a011ef31acca"
+          "size": 61544,
+          "sha256": "2ba5d910849541a613ab6eaa53a3e5766821275dc6f9443d088fe8574b9a5005"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/naomi-16x9-viewport.json",
@@ -4130,8 +4130,8 @@
     },
     "neogeo": {
       "path": "neogeo.zip",
-      "size": 667708,
-      "sha256": "c63a683a3b6580894da55a97165737a5131eac977c215e3ec603dc896a46b1b2",
+      "size": 664661,
+      "sha256": "03df2192443f5c23a5eebf662a79a7e6fbf1da96a12df4f4517b24e731be902e",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -4170,8 +4170,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/neogeo-16x10.png",
-          "size": 220627,
-          "sha256": "32ae8ec0c089bbe161af1dfaf9fb65d9fbead7efb021c5f1ac08aedcb9a1f86a"
+          "size": 219089,
+          "sha256": "219a7e0decd11a26e851e9c8dbcd4b988ca7732ec32ca0e9b0459b049365fc11"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/neogeo-16x9-viewport.json",
@@ -4197,8 +4197,8 @@
     },
     "neogeocd": {
       "path": "neogeocd.zip",
-      "size": 609182,
-      "sha256": "c41f0efed3dedb7c6adf81f10f0ece2ca47f5b071b143cfd889ecc678c977634",
+      "size": 605556,
+      "sha256": "a468b3fd5625a2f6fd89e8ddeca354408673d7f826c739232e004e4109982a64",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -4237,8 +4237,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/neogeocd-16x10.png",
-          "size": 191265,
-          "sha256": "f4a8d28e92344e9aa607d611b2a718cd9001e831e8e4794308db145fb88336ce"
+          "size": 188910,
+          "sha256": "5d2afe4c10455ec0eb4bdec70a1779c81fc5997fd9f508800889ae6b5dc51525"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/neogeocd-16x9-viewport.json",
@@ -4264,8 +4264,8 @@
     },
     "nes": {
       "path": "nes.zip",
-      "size": 95405,
-      "sha256": "a939237f7381172a1613d06ff0ad636a99e0f40cf2568e5912b9a4355337dd2f",
+      "size": 60258,
+      "sha256": "bab1107e19b91f735a3f590b8834455b56e030dd147bc364ce89541391bb0810",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -4304,8 +4304,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/nes-16x10.png",
-          "size": 44001,
-          "sha256": "ff59d5ea63899a17cce97d06e395140abbf9dcdfc48e184376a94b8574d04cc9"
+          "size": 31964,
+          "sha256": "cd8c6c6abfa080ed1ec5a6a92dad085d667724953617246aec6ff79019debb6c"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/nes-16x9-viewport.json",
@@ -4324,8 +4324,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/nes-16x9.png",
-          "size": 52957,
-          "sha256": "6ef3d4c37b9dc0f9d51b5045a72d945d963cd91f7285ec8e9e908fec676b0074"
+          "size": 31619,
+          "sha256": "273a141ba090e150148d4c108c9f369e82fd2cded2c9bfb523dc64a920b901a7"
         }
       ]
     },
@@ -4465,8 +4465,8 @@
     },
     "odyssey2": {
       "path": "odyssey2.zip",
-      "size": 430340,
-      "sha256": "39b157d17d2f946c762d4db92202df7cbb45f743ad23a20d54040af123d527d2",
+      "size": 430160,
+      "sha256": "a940f0dc3e89080007d8f5d050e62759299d0289a462646967dd13cf9bb4c6a7",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -4505,8 +4505,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/odyssey2-16x10.png",
-          "size": 152491,
-          "sha256": "e66085802497844a96b44f381615e86193a081bd01d6c3243a93b564e11b35bd"
+          "size": 152445,
+          "sha256": "85812b0e557805cefe6d47a72bbaeb64fe304a6df6e6dd1431225a12dd6c4a9c"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/odyssey2-16x9-viewport.json",
@@ -4532,8 +4532,8 @@
     },
     "pc88": {
       "path": "pc88.zip",
-      "size": 209780,
-      "sha256": "7e1032ad817eccc9596726a4f49c411cc84b1b460a116cd629b553998e935a87",
+      "size": 209185,
+      "sha256": "19bd69ee7a496a13c73d18138593c66ce8fd766beb951c8de280d3fd6d207936",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -4572,8 +4572,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/pc88-16x10.png",
-          "size": 83248,
-          "sha256": "8e097beafcb8153aaa310836a675961a1e5cae05daca9a3169c6ce53c7618fc9"
+          "size": 82943,
+          "sha256": "980c1d6148e11200e0b6764a9220e586d44cce2431f485cf7a6fa4184e7e44b7"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/pc88-16x9-viewport.json",
@@ -4599,8 +4599,8 @@
     },
     "pc98": {
       "path": "pc98.zip",
-      "size": 131535,
-      "sha256": "7faee26e93c5ff7667c90893b31c0347425c22e9358e7d70e22b2473e75a47c8",
+      "size": 131530,
+      "sha256": "7c2777ad938c2ad469881b0aee77377c3fbf59614f14bfd64960e5a32bfd90ca",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -4639,8 +4639,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/pc98-16x10.png",
-          "size": 55070,
-          "sha256": "628211b8084c521904f18ae02a27bf51487c9e0f1045ae24a68c043c328c4239"
+          "size": 55073,
+          "sha256": "4c78c3708936856fef40276d1a8460ad4c5c018fd5f2ab99b07aa573df1e37a5"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/pc98-16x9-viewport.json",
@@ -4666,8 +4666,8 @@
     },
     "pcengine": {
       "path": "pcengine.zip",
-      "size": 138340,
-      "sha256": "41b7bcd7b46917655df2e05c3d6c9d05a2127c1b6da093fc7e5c118921706d6d",
+      "size": 137937,
+      "sha256": "b7aea78ba2fa373b720973a3ddc9555842c3f2ba6a690ecf29026b20b531091d",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -4706,8 +4706,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/pcengine-16x10.png",
-          "size": 57334,
-          "sha256": "7bad7de2f81b32fa6975aaa17ecb94e786181af51d1a85bb85d717393c95b685"
+          "size": 57164,
+          "sha256": "4207ede0169de3cdb31b3135af736b68f8b54bdf66d60aec3894292aed15f724"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/pcengine-16x9-viewport.json",
@@ -4733,8 +4733,8 @@
     },
     "pcenginecd": {
       "path": "pcenginecd.zip",
-      "size": 220656,
-      "sha256": "5f1b07337ccaea4e0f4b2b70f2bfaa82aff2768248fef6142ee1a833c3bd8a61",
+      "size": 220192,
+      "sha256": "db386904305bbc6ed04761f00ea7ebb322caa7d39f1f652ad5686ecd8ed0d882",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -4773,8 +4773,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/pcenginecd-16x10.png",
-          "size": 86711,
-          "sha256": "97f76fec89993577c09ceedba6a9c527c153a228e734e3493d291d081c03dd66"
+          "size": 86453,
+          "sha256": "4abcc2f7eb643d0ef1eac4966ef86b40920130a643c59597ca02e0877d5cfc58"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/pcenginecd-16x9-viewport.json",
@@ -4800,8 +4800,8 @@
     },
     "pcfx": {
       "path": "pcfx.zip",
-      "size": 182675,
-      "sha256": "155f726a3fe641ff264d5ffb7596809d4eb7fb06837a72431db114b9bc934b99",
+      "size": 175519,
+      "sha256": "5b74399f8921f390809e66f5093aa9db6802a3d78c2f498a753cc8a9d02521df",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -4840,8 +4840,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/pcfx-16x10.png",
-          "size": 77254,
-          "sha256": "178ac9f0bdbab9007fba70a49eb70e515abb0a3334b7a80cc0022662f4d321ba"
+          "size": 77136,
+          "sha256": "71c051e2c4d79d2c4b48cc115a0890ecd665a09ca392c61b6f63f09cb3626701"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/pcfx-16x9-viewport.json",
@@ -4867,8 +4867,8 @@
     },
     "prboom": {
       "path": "prboom.zip",
-      "size": 344091,
-      "sha256": "c1b58f8be8af7420a5eebf2fb67148bb27e377dad6260e4f8b14dced6e2485eb",
+      "size": 343900,
+      "sha256": "a2163533ae76a19a831abf8bd1c23713b520d187768bcf2febcf2dc011d0faa9",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -4907,8 +4907,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/prboom-16x10.png",
-          "size": 139593,
-          "sha256": "68142df12a407fd6edb5eb85da6c4b41bf15340b86ed33090fd84fb23556313b"
+          "size": 139543,
+          "sha256": "e7cbdd8f06508e8103a4b9137a3e8a85181edebc0c835884fbca186febdf0551"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/prboom-16x9-viewport.json",
@@ -4934,8 +4934,8 @@
     },
     "ps2": {
       "path": "ps2.zip",
-      "size": 555666,
-      "sha256": "9f0f4a51615ce26ab119dc8608c23c25854954cd05c7d196ecf072fa439bb4e0",
+      "size": 551227,
+      "sha256": "be6962fe5ed7686152fe515a6f36b2af4ce32c36ceaeddf31bc365215312e42f",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -4974,8 +4974,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/ps2-16x10.png",
-          "size": 187603,
-          "sha256": "fd242234b3532d09b19e77d48154f67e02676c530c062bd0075e7754c5a92e2e"
+          "size": 185021,
+          "sha256": "69466488ea25389f44f921c66c9fe2980ceebd9ea1ebdcacf114654488cbf058"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/ps2-16x9-viewport.json",
@@ -5125,8 +5125,8 @@
     },
     "psx": {
       "path": "psx.zip",
-      "size": 162282,
-      "sha256": "489fe0fbb4fd4e2cc8135b6e491a8c3c87e805c88d1aa45ef8decb46a0108612",
+      "size": 161734,
+      "sha256": "8cdd53b4c843571319fd1b9d2c1fb0fbd5d9a2a7137486ce3efa9f782995c8ba",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -5165,8 +5165,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/psx-16x10.png",
-          "size": 66147,
-          "sha256": "a43196fba0490d61a38f287274f2d841672067b6508d8826972dbddeae1060a5"
+          "size": 65920,
+          "sha256": "e5b0ec6dedb21cf880b9203ac68cd6a9375f56183a6617536631ac47df741500"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/psx-16x9-viewport.json",
@@ -5249,8 +5249,8 @@
     },
     "saturn": {
       "path": "saturn.zip",
-      "size": 236754,
-      "sha256": "3354799d2d98c01b4d121ef79a8b6afd44a32126375947a23cbd9e05c92fc88e",
+      "size": 235364,
+      "sha256": "81f063cca4e1d3c965434ff37c0a8e9ab308c51d592a08b4963ba3418d4ae6cd",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -5289,8 +5289,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/saturn-16x10.png",
-          "size": 94317,
-          "sha256": "ab97412936d2a47776908d7a9d868e71b2426cb7b20fba795813a8a1c9fb13db"
+          "size": 93569,
+          "sha256": "d11bf4081ac9d2bf88acefae42e4df088a57bc014d5641e6eb95c54dca80ac19"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/saturn-16x9-viewport.json",
@@ -5316,8 +5316,8 @@
     },
     "scummvm": {
       "path": "scummvm.zip",
-      "size": 207530,
-      "sha256": "1d853338311f1094079f7192974d0ac43ec7a0177feea2d4098c7486743699d6",
+      "size": 207347,
+      "sha256": "9abeeea9b490c3ad4133c7919709d8f18a7e96b98b61b1bc71904a0e5a6008cb",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -5356,8 +5356,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/scummvm-16x10.png",
-          "size": 84925,
-          "sha256": "d2efa2032e8b8fe61be00d825412c9e4dcfeca34a1c978b9735343a6abe5c4d7"
+          "size": 84877,
+          "sha256": "dfa62765f41a672fbacd7b2386166cf55104e1774fa62d225dc8859b26c90fd0"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/scummvm-16x9-viewport.json",
@@ -5383,8 +5383,8 @@
     },
     "scv": {
       "path": "scv.zip",
-      "size": 142654,
-      "sha256": "ef260eba9d5fc24671ad78ef875b64476050ecb5930b5d7f25742eb6538d449e",
+      "size": 142574,
+      "sha256": "5092a37b1b432e19a767cde659423afc78eb6ffbc8722bb38b2210a3e988a794",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -5423,8 +5423,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/scv-16x10.png",
-          "size": 61395,
-          "sha256": "0a8c64f25e487660024d5d932696d1e26611536ce92294d12758532d4e713b9b"
+          "size": 61340,
+          "sha256": "9ddf63fd5d64836661c514bb6d5d01748903661720539977dd93b58a4eee0b54"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/scv-16x9-viewport.json",
@@ -5450,8 +5450,8 @@
     },
     "sega32x": {
       "path": "sega32x.zip",
-      "size": 447959,
-      "sha256": "edc327d1aa2a23c5b880d5db936bea2db0919ef577069fb90dd32846adeec66c",
+      "size": 444136,
+      "sha256": "2480851e46ae8eb7f01ecd12f08bdc42a09757b2d78fd0c897ec57cf1c93fcaa",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -5490,8 +5490,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/sega32x-16x10.png",
-          "size": 159528,
-          "sha256": "6b760001a214e0550e506fb3aa4ce0d6bf626cc58de027c1aa8a3956b21eff0c"
+          "size": 157211,
+          "sha256": "833082d75094f2cc45c27bc63ff5bbed4a252a7c228ccaebcd8c9fb220d7583f"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/sega32x-16x9-viewport.json",
@@ -5517,8 +5517,8 @@
     },
     "sg1000": {
       "path": "sg1000.zip",
-      "size": 150096,
-      "sha256": "f443971b00e3a4419315ee3450fbbea7360719acab88fdc4e836aa49a33561c5",
+      "size": 149542,
+      "sha256": "9ec34850df8e02b8073c10fbd3d09c10347e611ad77577b57f811c4d4452cd97",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -5557,8 +5557,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/sg1000-16x10.png",
-          "size": 59328,
-          "sha256": "7a1ead20d895003b50466f2c1f36b61275436978a14fb341378fcbe374509840"
+          "size": 58991,
+          "sha256": "936d73472a90f2d476631bba9f4099a08c876238610f9ef653101f1b7e44586d"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/sg1000-16x9-viewport.json",
@@ -5584,8 +5584,8 @@
     },
     "sgb": {
       "path": "sgb.zip",
-      "size": 217504,
-      "sha256": "693dd23a223ecc50f7522accea05aa83f5ed2cb7bce3b68e7863529c09713519",
+      "size": 217361,
+      "sha256": "7c72280619fa06e0e57d33eabb5b24aebf0eb3d6394c56ef5779c3799acb831a",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -5624,8 +5624,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/sgb-16x10.png",
-          "size": 90195,
-          "sha256": "0c203197cdd0e51ceb6ce03f70dabc84daa221f26d255cd32ee02b79e9a7caa0"
+          "size": 90105,
+          "sha256": "74970d25a0846f5448a696cd8d9975a6412b4b1de02ea66095fa2aae72bb284a"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/sgb-16x9-viewport.json",
@@ -5651,8 +5651,8 @@
     },
     "snes": {
       "path": "snes.zip",
-      "size": 130597,
-      "sha256": "95a1f316dff4fbfe3666c046a53b1fae73a1f46bd269000a4f63c56f6742c690",
+      "size": 130483,
+      "sha256": "2c0b8b37f8d23390bff98a4d25f9472cd5347b536e8da43a657980ddab402232",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -5691,8 +5691,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/snes-16x10.png",
-          "size": 54877,
-          "sha256": "994982327ee651d997622e4bc85c82a06ffe987adddbed4af55c8a82beb47963"
+          "size": 54815,
+          "sha256": "d5e993371b9a714360615835980e8636b45cd24afe1e399b97f4d80aa985e21a"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/snes-16x9-viewport.json",
@@ -5718,8 +5718,8 @@
     },
     "snes-msu1": {
       "path": "snes-msu1.zip",
-      "size": 130686,
-      "sha256": "29d63abcc2e377303d987b75b23bbf90b644339d493df706c8defe0232c1e8ae",
+      "size": 130572,
+      "sha256": "a810f69200a86f015716b829b56ae4c64cc4276769d25d42e90cea8bbd146c96",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -5758,8 +5758,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/snes-msu1-16x10.png",
-          "size": 54877,
-          "sha256": "994982327ee651d997622e4bc85c82a06ffe987adddbed4af55c8a82beb47963"
+          "size": 54815,
+          "sha256": "d5e993371b9a714360615835980e8636b45cd24afe1e399b97f4d80aa985e21a"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/snes-msu1-16x9-viewport.json",
@@ -5899,8 +5899,8 @@
     },
     "supergrafx": {
       "path": "supergrafx.zip",
-      "size": 290578,
-      "sha256": "78362b8f9f9ae101e01c12c423249da58443a2803a69548a985ff3350b2c5fba",
+      "size": 287586,
+      "sha256": "47d87571009d02aeb509c704dfadf9f2c69fad9fc4fcf19eb6c39fcde19f63f5",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -5939,8 +5939,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/supergrafx-16x10.png",
-          "size": 113735,
-          "sha256": "03cbef7f778a4270fec9adfb1ce9c01e08155de05f5e3558befcd53fa0246af3"
+          "size": 111694,
+          "sha256": "f7c182b572892cb99812dea1687c5c09555edf506489596d35b51e001ba24c6c"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/supergrafx-16x9-viewport.json",
@@ -6033,8 +6033,8 @@
     },
     "thomson": {
       "path": "thomson.zip",
-      "size": 606966,
-      "sha256": "78c98f4a5216654280c49c8434c659289c1f8303c0a666767c1c5ea3882e6106",
+      "size": 602899,
+      "sha256": "c5e59f251253e1b7619b3327a88e874290a90f32200f3b2bd49732e1b03e8796",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -6073,8 +6073,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/thomson-16x10.png",
-          "size": 219097,
-          "sha256": "c24f0aad7689fb65bf18820cc08de35cdee26f041bc4a7a38a58ffa951ece08f"
+          "size": 216581,
+          "sha256": "bcf97880eaea65602b4f1c4f09e091de750236b1c739d22a0aadbf4bee79c77a"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/thomson-16x9-viewport.json",
@@ -6224,8 +6224,8 @@
     },
     "uzebox": {
       "path": "uzebox.zip",
-      "size": 144552,
-      "sha256": "ea1a1af86963b1db20dfb825d23c7dae7acaca82cc8947bee0f00a59b6aaa6a6",
+      "size": 144835,
+      "sha256": "98d0ab6d237fb3d9c72c33d3b684dc52a502d38d27429ee745449f9a2928d597",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -6264,8 +6264,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/uzebox-16x10.png",
-          "size": 65743,
-          "sha256": "6d8ea393201b62c5176bdda3b11279ab3f519eb065031bf909fa21784e29fd66"
+          "size": 64374,
+          "sha256": "fd6d93f848832d2fa8a74e8c37920c02ef93a708679d97b7bc8ffb27f2da7f44"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/uzebox-16x9-viewport.json",
@@ -6348,8 +6348,8 @@
     },
     "wii": {
       "path": "wii.zip",
-      "size": 83990,
-      "sha256": "b205d7d1d05c58a3664fc4bfea52af88a62a3d8819b4c0d3349247057fd610ab",
+      "size": 84066,
+      "sha256": "80e667aef127613197161d126480ae70e5f9b57bf933aa300f8c9beb2679454d",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -6388,8 +6388,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/wii-16x10.png",
-          "size": 35605,
-          "sha256": "e7f65dd31f5311d9f5f60804d688f1ce6b106924c871ab4c07f42cad15ad55d5"
+          "size": 36898,
+          "sha256": "35964148730f7949a9ecec1ca873b80e4988a04bb8fef8d5ff30d188deebc80d"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/wii-16x9-viewport.json",
@@ -6472,8 +6472,8 @@
     },
     "x1": {
       "path": "x1.zip",
-      "size": 311092,
-      "sha256": "8946250b025a29ace0e00cde253e3f7bbd9f539405f4c3db1fe5820c40bb1a47",
+      "size": 310315,
+      "sha256": "6a1df572730298d40fc32be3f7c33dfac728788848c9f98f69a89fcfce083427",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -6512,8 +6512,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/x1-16x10.png",
-          "size": 117618,
-          "sha256": "b89c4e12a9cc4b903a9b30187765a8d3780046eb365b36f670ba6064de1dbd39"
+          "size": 117135,
+          "sha256": "082b132cb801f7a4430c3c418ecc3244e502eb8381ad097e94ac3d0178dd19f1"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/x1-16x9-viewport.json",
@@ -6539,8 +6539,8 @@
     },
     "x68000": {
       "path": "x68000.zip",
-      "size": 448914,
-      "sha256": "b31dd7bb0235546f32e08036042a554d2b86d8677abe9bd16b7aac097f5bdb8f",
+      "size": 448932,
+      "sha256": "d2b546a73d4180d0c1e48809630be057fae81eb1fb4a103dd82a08b1785fea49",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -6579,8 +6579,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/x68000-16x10.png",
-          "size": 158824,
-          "sha256": "c0bbf7d35295ac6a39a9f320eff1a511a1d5d10da28d981c20b4208a62f5df18"
+          "size": 158897,
+          "sha256": "9f63088c5db777debf8db9fc58f41bb50ed08f28ae37a92309e20ea1b1cf03e2"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/x68000-16x9-viewport.json",
@@ -6663,8 +6663,8 @@
     },
     "zx81": {
       "path": "zx81.zip",
-      "size": 664919,
-      "sha256": "c530798d8d8ce0d911765d73b18b73cc38484bef4a3caa6feb79b9be4e8443ff",
+      "size": 660356,
+      "sha256": "b238d9fd85288ca9b9ca14b63b3e3d9e7227f0ad51b8d621fa8c37f4aa7210f3",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -6703,8 +6703,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/zx81-16x10.png",
-          "size": 228455,
-          "sha256": "3c021099e3d77cc6def2a50d0f8b0a801849030b5c317fcc966f8a8e20f5f5ca"
+          "size": 226022,
+          "sha256": "3047af0454651949fe2af9401d810cd3b7488bb176a982da509d7b8eef1473e7"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/zx81-16x9-viewport.json",
@@ -6730,8 +6730,8 @@
     },
     "zxspectrum": {
       "path": "zxspectrum.zip",
-      "size": 428984,
-      "sha256": "0c9d43b4a2bae3bc4efb128bc82890e9c064b8b86fa3b928168b72e689c9ac9d",
+      "size": 427265,
+      "sha256": "24c7ad768e581368c960b6bb07211f7947fde6a9de542a225da389f572c2e48e",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -6770,8 +6770,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/zxspectrum-16x10.png",
-          "size": 156219,
-          "sha256": "30febebc85e774ccefc3e30eef63427a9a2028336042eb742694bafc07ab5671"
+          "size": 155102,
+          "sha256": "9eb3d9115b3b049f2fda3e3c4dcaf07b8eea924790149679860388bc9219ca16"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/zxspectrum-16x9-viewport.json",
