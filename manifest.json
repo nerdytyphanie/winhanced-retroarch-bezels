@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-02-artwork-v3",
+  "version": "2026-10-02-artwork-v4",
   "status": "awaiting visual validation",
   "packages": {
     "3do": {
@@ -768,8 +768,8 @@
     },
     "apple2": {
       "path": "apple2.zip",
-      "size": 1240199,
-      "sha256": "7060225f35b577ea0151e1bd8d979efe8af985f3e876270c6d96e878177290bd",
+      "size": 1266870,
+      "sha256": "d34220b9926b2c5c61ef7e044740e9180c97b2a19d5e9921a7e417a5c70c5934",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
@@ -793,8 +793,8 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/apple2-16x10-viewport.json",
-          "size": 156,
-          "sha256": "b254cfd663a83cfb0dbe925530924ddca6521e26a894bb29f024d8b435b058a5"
+          "size": 155,
+          "sha256": "d925153cecfa4eaf9dc3cdbab9e460914ca7a50b2741fe6d93ece6b553fe32bb"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/apple2-16x10.cfg",
@@ -803,13 +803,13 @@
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/apple2-16x10.info",
-          "size": 156,
-          "sha256": "b254cfd663a83cfb0dbe925530924ddca6521e26a894bb29f024d8b435b058a5"
+          "size": 155,
+          "sha256": "d925153cecfa4eaf9dc3cdbab9e460914ca7a50b2741fe6d93ece6b553fe32bb"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/apple2-16x10.png",
-          "size": 625431,
-          "sha256": "b7f7b5e70fe120ebae761c2bbbc4e21e5d74ab8b5e8e3b7823648f343302bcef"
+          "size": 650744,
+          "sha256": "cdb67ba610829a4289e412f4c4d5f59a3af9721df2f7ca66baf6e68f7d5d2f40"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/apple2-16x9-viewport.json",
