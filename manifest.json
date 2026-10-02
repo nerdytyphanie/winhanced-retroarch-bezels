@@ -2376,6 +2376,103 @@
         }
       ]
     },
+    "gb": {
+      "path": "gb.zip",
+      "size": 620055,
+      "sha256": "aa19de46d9baa1779808aad4acb3fb221105bacb3ed5c7ca8eca3c3fbbbb6b23",
+      "files": [
+        {
+          "path": "RetroArchAssets/ATTRIBUTION.md",
+          "size": 4901,
+          "sha256": "aeb871dd929257f808a8869ad8b93fb84ab1a0daf955f4e3c052f047e3ef519c"
+        },
+        {
+          "path": "RetroArchAssets/CC-BY-NC-SA-4.0.txt",
+          "size": 19018,
+          "sha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11"
+        },
+        {
+          "path": "RetroArchAssets/DUIMON-LICENSE.md",
+          "size": 17691,
+          "sha256": "4ed3a3af15afc4ca5fb9472a5fc79d67d00d933f7638a89084bc01b8efc383a6"
+        },
+        {
+          "path": "RetroArchAssets/RETROBAT-LICENSE.txt",
+          "size": 1207,
+          "sha256": "03b7807d8c354092bacdcf54f40a80adb969eb9c72c9e9825309367a84ae6f08"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/gb-16x10.info",
+          "size": 103,
+          "sha256": "636d5fba0ec716a55cbccdb2b1b1cb01cdd3af524c2b1412e53d3854f4ea75fa"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/gb-16x10.png",
+          "size": 356848,
+          "sha256": "6652bccf72c9f33fa1a7861284b07af7d6440fc0d727a22b647fc13b1bf3ebba"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/gb-16x9.info",
+          "size": 102,
+          "sha256": "6b8a503825421e646d24a7b09be31d435d0309791cb85d6bba540c3908b50d7a"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/gb-16x9.png",
+          "size": 330517,
+          "sha256": "90775382c87cadc5907c9e8e3c3773b59acc6b956056ca356919f89cbd52f557"
+        },
+        {
+          "path": "RetroArchAssets/gb-16x10.cfg",
+          "size": 180,
+          "sha256": "c5b822bc413ac780aaf980f31a5d26c9da0229e38d0b153ff4d130cd773c2eb8"
+        },
+        {
+          "path": "RetroArchAssets/gb-16x9.cfg",
+          "size": 179,
+          "sha256": "3eff544056e20e97f64ab8ef84aff1219de5ea7de1cc6e0dc52e5215aa80bbc3"
+        },
+        {
+          "path": "RetroArchAssets/gb-viewport-1280x720.cfg",
+          "size": 116,
+          "sha256": "a39b4e3edac6460feb486644a40408261e8ef93bb7ce979e36c8b1a1ac01c7ca"
+        },
+        {
+          "path": "RetroArchAssets/gb-viewport-1280x800.cfg",
+          "size": 117,
+          "sha256": "bdb3f18cf34775dfa177ba550f7690eb8b5355864b9ea9baa1a5c9054dde4f4d"
+        },
+        {
+          "path": "RetroArchAssets/gb-viewport-1920x1080.cfg",
+          "size": 118,
+          "sha256": "4701c774c46226c07580822d99ceebdeeb6a423d0907a94885e9ef316ddf02db"
+        },
+        {
+          "path": "RetroArchAssets/gb-viewport-1920x1200.cfg",
+          "size": 118,
+          "sha256": "596368f9bb479458c8618a4c4982db471e51bbd6a88d116af1be6a28a20e3790"
+        },
+        {
+          "path": "RetroArchAssets/gb-viewport-2560x1440.cfg",
+          "size": 119,
+          "sha256": "f20d86d6951ce09d655d7aa09cd2753bf4c8fd2a3dccc3268e3d3ac59e3838ea"
+        },
+        {
+          "path": "RetroArchAssets/gb-viewport-2560x1600.cfg",
+          "size": 119,
+          "sha256": "a3ad49b9092b4237bdbc2b591c6fdd87dcb0945f14bb8624db2bffc05a40053f"
+        },
+        {
+          "path": "RetroArchAssets/gb-viewport-3840x2160.cfg",
+          "size": 119,
+          "sha256": "59ddfeddd1e4353ad6a5e2a25abea75ec39c359016555f73ff80fcbf03078deb"
+        },
+        {
+          "path": "RetroArchAssets/gb-viewport-3840x2400.cfg",
+          "size": 119,
+          "sha256": "8bb225ba825f6af5740619a14375c301a40c8b729d91fe42191cb84e78f816df"
+        }
+      ]
+    },
     "gba": {
       "path": "gba.zip",
       "size": 266267,
@@ -2440,6 +2537,113 @@
           "path": "RetroArchAssets/RetroArchBezels/gba-16x9.png",
           "size": 98676,
           "sha256": "4bfcc04cfa6e7b9316ad31af06e598ad08d49c0237fb5735985e6fa3f16b1d3b"
+        }
+      ]
+    },
+    "gbc": {
+      "path": "gbc.zip",
+      "size": 3694787,
+      "sha256": "edf071e056831f1cdd8f5bdbc47b07219b30b422b6893d857614a95c19d7759f",
+      "files": [
+        {
+          "path": "RetroArchAssets/ATTRIBUTION.md",
+          "size": 4901,
+          "sha256": "aeb871dd929257f808a8869ad8b93fb84ab1a0daf955f4e3c052f047e3ef519c"
+        },
+        {
+          "path": "RetroArchAssets/CC-BY-NC-SA-4.0.txt",
+          "size": 19018,
+          "sha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11"
+        },
+        {
+          "path": "RetroArchAssets/DUIMON-LICENSE.md",
+          "size": 17691,
+          "sha256": "4ed3a3af15afc4ca5fb9472a5fc79d67d00d933f7638a89084bc01b8efc383a6"
+        },
+        {
+          "path": "RetroArchAssets/RETROBAT-LICENSE.txt",
+          "size": 1207,
+          "sha256": "03b7807d8c354092bacdcf54f40a80adb969eb9c72c9e9825309367a84ae6f08"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/gbc-16x10.png",
+          "size": 981005,
+          "sha256": "7e91abaff83873ce038ff1a1e849f42a969e8df342077b10c96b1c790eb7eabf"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/gbc-16x9.png",
+          "size": 888642,
+          "sha256": "b6fdf36ef68a798f9d88ede6937972cf411d910fd018155f4fbcbd4f1b8b4169"
+        },
+        {
+          "path": "RetroArchAssets/gbc-16x10.cfg",
+          "size": 168,
+          "sha256": "85e572b9d45de290fa8e8bd002a14bc329575f10f594e209c70383831342a4b1"
+        },
+        {
+          "path": "RetroArchAssets/gbc-16x10.info",
+          "size": 103,
+          "sha256": "dfd93aedf11845e966dd4cf82cbc36153c7a7221977de641afea432797b51109"
+        },
+        {
+          "path": "RetroArchAssets/gbc-16x9.cfg",
+          "size": 177,
+          "sha256": "097d2dafeb6b43ceb50798aad68a83ccb937ddcaf1d6cb7d4ad69c1e3bcb4717"
+        },
+        {
+          "path": "RetroArchAssets/gbc-16x9.info",
+          "size": 102,
+          "sha256": "4ad495b0caa7d77bcc0157db4c0ea6a759715a139bfd72dc2145c9e7b06b0717"
+        },
+        {
+          "path": "RetroArchAssets/gbc-side-art.png",
+          "size": 981005,
+          "sha256": "7e91abaff83873ce038ff1a1e849f42a969e8df342077b10c96b1c790eb7eabf"
+        },
+        {
+          "path": "RetroArchAssets/gbc-side-art.png.16x9.png",
+          "size": 888642,
+          "sha256": "b6fdf36ef68a798f9d88ede6937972cf411d910fd018155f4fbcbd4f1b8b4169"
+        },
+        {
+          "path": "RetroArchAssets/gbc-viewport-1280x720.cfg",
+          "size": 116,
+          "sha256": "9b19960eca18817abd3501371195b3f287faab5a73aaf9b672d8dd7fb75c06c7"
+        },
+        {
+          "path": "RetroArchAssets/gbc-viewport-1280x800.cfg",
+          "size": 116,
+          "sha256": "97d3a2aaff3537977bf9d4263b77c00ff68f580eccf1d336962f1f218032db95"
+        },
+        {
+          "path": "RetroArchAssets/gbc-viewport-1920x1080.cfg",
+          "size": 117,
+          "sha256": "3dcf25f22d56f0f44355fd458c657f0f9597b65eacb698c671f26a554c4b4bf3"
+        },
+        {
+          "path": "RetroArchAssets/gbc-viewport-1920x1200.cfg",
+          "size": 118,
+          "sha256": "01c82c018a702584aeb62731defbe3ba91d63bf294432dbf79540bd284b5874a"
+        },
+        {
+          "path": "RetroArchAssets/gbc-viewport-2560x1440.cfg",
+          "size": 118,
+          "sha256": "4cf0aea449f7d71f64c796713b038a72530bb0c89a5dc4a178d1f17e68258556"
+        },
+        {
+          "path": "RetroArchAssets/gbc-viewport-2560x1600.cfg",
+          "size": 119,
+          "sha256": "23c9b2ebf1285aba0412bc6b5e181bcb85b03d4b9ba872d5b4a0db8f48c91c22"
+        },
+        {
+          "path": "RetroArchAssets/gbc-viewport-3840x2160.cfg",
+          "size": 119,
+          "sha256": "e4eda7596195b4726dd67c956234a0b19db2d5d4f3f84699409a18327302ce4b"
+        },
+        {
+          "path": "RetroArchAssets/gbc-viewport-3840x2400.cfg",
+          "size": 119,
+          "sha256": "565e49737e8371abb45f4f07c309db9d3f7875ed990734125f342dabd3beddf0"
         }
       ]
     },
