@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-02-crt-1tap-v1",
+  "version": "2026-10-02-crt-modes-v1",
   "status": "awaiting visual validation",
   "packages": {
     "3do": {
@@ -6797,13 +6797,13 @@
     },
     "shaders": {
       "path": "shaders.zip",
-      "size": 397731,
-      "sha256": "4c7254740515831d10589af555da070ea9bf8ffcaabcef4492dee3eaf1ef6c1e",
+      "size": 399819,
+      "sha256": "87a07d51ba6572f8dbceb9e878ddc9179591891b72bb5ed740d536e861ae1dbc",
       "files": [
         {
           "path": "RetroArchAssets/ATTRIBUTION.md",
-          "size": 5569,
-          "sha256": "450843c8698bf4278aa1ae5193758780e956e3f3d22bd1417731c229ac6bb25c"
+          "size": 6030,
+          "sha256": "a9565087a421f76b7f6c368368e0c404314067db75f737d1e084711142327fd9"
         },
         {
           "path": "RetroArchAssets/CC-BY-NC-SA-4.0.txt",
@@ -6874,6 +6874,16 @@
           "path": "RetroArchAssets/RetroArchBezels/crt-1tap.slang",
           "size": 3548,
           "sha256": "b77ec93a9edc00a485bb8d99fdf7222c9e6bd10fde50fc321a197a3616d08a99"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/crt-cgwg-fast.slang",
+          "size": 4464,
+          "sha256": "ff94637986d0c383ae193cf65fe299a81a5bf1be2f40378fc5f88a7e385ea90a"
+        },
+        {
+          "path": "RetroArchAssets/RetroArchBezels/crt-cgwg-fast.slangp",
+          "size": 94,
+          "sha256": "f89dd943e9a78c41af456ded83ea38afb22b88c0a229501f84c0b4aa1dd17116"
         },
         {
           "path": "RetroArchAssets/RetroArchBezels/crt1tap-parameters.inc",
